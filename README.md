@@ -14,10 +14,8 @@ The project demonstrates Java class design, object modeling, data handling, and 
 - Schedule and manage appointments
 - Update patient information
 - Search patient details
-- Role-based interaction (if applicable)
+- Role-based interaction 
 - Structured menu-driven interface
-- Data persistence using text files (if implemented)
-
 
 ## Technologies Used
 
