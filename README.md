@@ -8,8 +8,6 @@ The system allows clinic staff to manage patients, appointments, and basic medic
 
 The project demonstrates Java class design, object modeling, data handling, and modular program structure.
 
----
-
 ## Features
 
 - Add and manage patient records
@@ -20,7 +18,6 @@ The project demonstrates Java class design, object modeling, data handling, and 
 - Structured menu-driven interface
 - Data persistence using text files (if implemented)
 
----
 
 ## Technologies Used
 
@@ -31,6 +28,3 @@ The project demonstrates Java class design, object modeling, data handling, and 
 - Array / ArrayList data handling
 - File I/O (if used)
 
----
-
-## Project Structure
