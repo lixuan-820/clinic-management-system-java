@@ -1,0 +1,11 @@
+Manager;M001;Alice Tan;790101-14-5678;alicetan@gmail.com;1979/01/01;Female;0123456789;Malaysian;10000
+Doctor;D001;John Lim;850412-08-2345;johnlim@gmail.com;1985/04/12;Male;0138765432;Malaysian;8000
+Doctor;D002;Michael Tan;900215-10-4567;michaeltan@gmail.com;1990/02/15;Male;0123456789;Malaysian;7500
+Doctor;D003;Samantha Ng;930506-11-3344;samanthang@gmail.com;1993/05/06;Female;0186677889;Malaysian;8100
+Doctor;D004;Rachel Lee;880923-07-1122;rachellee@gmail.com;1988/09/23;Female;0172233445;Malaysian;7700
+Staff;S001;Aiman Rahman;950322-05-1234;aiman.rahman@gmail.com;1995/03/22;Male;0128765432;Malaysian;3500
+Staff;S002;Priya Devi;920715-08-5678;priya.devi@gmail.com;1992/07/15;Female;0163344556;Malaysian;3700
+Staff;S003;Jason Chong;980911-14-8765;jasonchong@gmail.com;1998/09/11;Male;0179988776;Malaysian;3600
+Staff;S004;Nurul Izzah;890430-10-2233;nurul.izzah@gmail.com;1989/04/30;Female;0134455667;Malaysian;3800
+Staff;S005;David Smith;880125-09-4455;david.smith@gmail.com;1988/01/25;Male;0112233445;British;4200
+Staff;S006;Li Mei Chen;970608-12-6677;limeichen@gmail.com;1997/06/08;Female;0145566778;Singaporean;3900

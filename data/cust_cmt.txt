@@ -1,0 +1,52 @@
+C001;S006;Reception was friendly.;2025/08/09
+C002;D003;Would recommend to friends.;2025/08/04
+C003;S006;Good experience overall.;2025/08/14
+C004;M001;Great service, thank you.;2025/08/08
+C005;S004;Thanks for accommodating walk-in.;2025/08/07
+C006;S006;Good experience overall.;2025/08/15
+C007;S005;Follow-up scheduled next week.;2025/07/01
+C008;D002;Queue moved fast.;2025/08/05
+C009;D003;Parking was difficult.;2025/08/13
+C010;D001;Appreciate the quick checkup.;2025/07/20
+C011;D004;Waiting time a bit long.;2025/07/18
+C012;D001;Nurse was kind and patient.;2025/08/10
+C013;S006;Thanks for accommodating walk-in.;2025/07/12
+C014;S005;Facilities are clean.;2025/07/02
+C015;S006;Would recommend to friends.;2025/07/03
+C016;D003;Reception was friendly.;2025/08/15
+C017;S006;Appreciate the quick checkup.;2025/08/12
+C018;D003;Follow-up scheduled next week.;2025/07/22
+C019;S006;Doctor was very helpful.;2025/08/06
+C020;S004;Would recommend to friends.;2025/08/13
+C021;D004;Good experience overall.;2025/08/11
+C022;M001;Would recommend to friends.;2025/07/26
+C023;S001;Nurse was kind and patient.;2025/08/07
+C024;S005;Parking was difficult.;2025/08/16
+C025;S002;Aircon was too cold.;2025/08/05
+C026;D003;Good experience overall.;2025/08/24
+C027;S005;Queue moved fast.;2025/07/13
+C028;S001;Would recommend to friends.;2025/09/05
+C029;S004;System easy to use.;2025/08/02
+C030;D001;Medication instructions clear.;2025/08/26
+C031;S006;Queue moved fast.;2025/08/13
+C032;S002;Thanks for accommodating walk-in.;2025/09/17
+C033;D004;Good experience overall.;2025/07/01
+C034;S006;Reception was friendly.;2025/08/18
+C035;D004;Parking was difficult.;2025/08/14
+C036;D002;Aircon was too cold.;2025/08/24
+C037;D004;Prefer morning slots.;2025/07/17
+C038;D001;Please call me for results.;2025/07/17
+C039;S005;Facilities are clean.;2025/08/25
+C040;D002;Good experience overall.;2025/09/30
+C041;S004;Great service, thank you.;2025/08/16
+C042;M001;Reception was friendly.;2025/09/29
+C043;D004;Would recommend to friends.;2025/08/29
+C044;S005;Doctor was very helpful.;2025/08/16
+C045;D001;Good experience overall.;2025/07/05
+C046;S006;System easy to use.;2025/09/06
+C047;D004;Prefer morning slots.;2025/07/14
+C048;D003;Good experience overall.;2025/07/23
+C049;D003;Please call me for results.;2025/08/22
+C050;S006;Appreciate the quick checkup.;2025/08/17
+C001;D001;good;2025/09/30
+C001;D001;good service;2025/09/30

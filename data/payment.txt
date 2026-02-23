@@ -1,0 +1,65 @@
+P001;A001;C005;Michael Johnson;2025/08/03;80.0;D001;[General Checkup];[80.0];[];[];take medicine on time;Debit/Credit Card;80.0;0.0
+P002;A002;C014;Andrew Smith;2025/08/07;110.0;D002;[Specialist Consultation];[110.0];[];[];take medicine on time;Debit/Credit Card;120.0;10.0
+P003;A003;C027;Aisyah Ahmad;2025/08/09;170.0;D004;[Specialist Consultation];[120.0];[Painkillers];[50.0];take medicine on time;Cash;170.0;0.0
+P004;A005;C041;Hannah Tan;2025/08/11;160.0;D001;[Specialist Consultation,Follow Up];[100.0,60.0];[Antihistamine];[30.0];eat more vegetables;Cash;200.0;40.0
+P005;A008;C018;Hiroshi Sato;2025/08/18;95.0;D001;[Follow Up];[60.0];[Cough Syrup];[35.0];sleep earlier;Touch N Go;95.0;0.0
+P006;A009;C009;Sarah Mitchell;2025/04/14;225.0;D004;[Specialist Consultation,Emergency];[130.0,60.0];[Vitamins,Painkillers];[25.0,10.0];manage stress better;Online Banking;225.0;0.0
+P007;A010;C046;Lucas White;2025/08/20;100.0;D002;[Specialist Consultation];[100.0];[];[];manage stress better;Cash;120.0;20.0
+P008;A012;C017;Sophia Lee;2025/08/21;250.0;D004;[Specialist Consultation,Follow Up];[180.0,40.0];[Cough Syrup];[30.0];exercise regularly;Touch N Go;250.0;0.0
+P009;A015;C047;Tan Li Wei;2025/01/29;130.0;D004;[Specialist Consultation];[130.0];[];[];eat more vegetables;Cash;130.0;0.0
+P010;A016;C031;Emily Davis;2025/08/24;220.0;D003;[Specialist Consultation,Follow Up];[130.0,50.0];[Vitamins];[40.0];take medicine on time;Cash;220.0;0.0
+P011;A017;C010;Thomas Tan;2025/08/25;140.0;D001;[General Checkup];[80.0];[Antihistamine,Vitamins];[30.0,30.0];eat more vegetables;Debit/Credit Card;140.0;0.0
+P012;A020;C030;Christopher Tan;2025/07/06;220.0;D003;[Specialist Consultation];[180.0];[Painkillers];[40.0];eat more vegetables;Debit/Credit Card;250.0;30.0
+P013;A021;C044;Brian Park;2025/08/28;145.0;D001;[Follow Up];[60.0];[Vitamins,Painkillers];[45.0,40.0];exercise regularly;Touch N Go;145.0;0.0
+P014;A022;C028;Benjamin Lee;2025/02/18;115.0;D004;[General Checkup];[80.0];[Cough Syrup];[35.0];drink more water;Debit/Credit Card;115.0;0.0
+P015;A023;C037;Alice Johnson;2025/08/29;180.0;D002;[Specialist Consultation];[180.0];[];[];manage stress better;Cash;200.0;20.0
+P016;A024;C003;Daniel Wong;2025/08/30;205.0;D001;[Specialist Consultation];[180.0];[Vitamins];[25.0];exercise regularly;Online Banking;205.0;0.0
+P017;A026;C042;Jason Smith;2025/08/02;160.0;D003;[General Checkup,Follow Up];[80.0,40.0];[Painkillers];[40.0];exercise regularly;Touch N Go;160.0;0.0
+P018;A028;C038;David Chen;2025/08/04;85.0;D001;[Follow Up];[60.0];[Vitamins];[25.0];exercise regularly;Cash;100.0;15.0
+P019;A029;C032;Alex Wong;2025/05/20;130.0;D002;[Specialist Consultation];[130.0];[];[];drink more water;Cash;130.0;0.0
+P020;A030;C043;Melissa Wong;2025/08/06;110.0;D004;[Specialist Consultation];[110.0];[];[];follow doctor's advice;Online Banking;110.0;0.0
+P021;A033;C039;Siti Aisyah;2025/08/10;95.0;D004;[Follow Up];[60.0];[Cough Syrup];[35.0];reduce sugar intake;Debit/Credit Card;95.0;0.0
+P022;A034;C026;Matthew Wilson;2025/01/15;190.0;D002;[Specialist Consultation];[120.0];[Painkillers,Vitamins];[50.0,20.0];exercise regularly;Cash;200.0;10.0
+P023;A035;C045;Carmen Lee;2025/08/12;80.0;D003;[General Checkup];[80.0];[];[];drink more water;Debit/Credit Card;80.0;0.0
+P024;A037;C048;Edward Brown;2025/02/23;165.0;D002;[Specialist Consultation];[130.0];[Cough Syrup];[35.0];reduce sugar intake;Debit/Credit Card;165.0;0.0
+P025;A038;C029;Rachel Kim;2025/08/14;200.0;D004;[Specialist Consultation,Follow Up];[120.0,40.0];[Painkillers];[40.0];sleep earlier;Online Banking;200.0;0.0
+P026;A039;C040;Kevin Lee;2025/03/30;125.0;D003;[General Checkup];[80.0];[Vitamins];[45.0];eat more vegetables;Touch N Go;125.0;0.0
+P027;A040;C013;Jessica Wong;2025/08/16;180.0;D001;[Specialist Consultation];[180.0];[];[];drink more water;Cash;180.0;0.0
+P028;A041;C015;Nurul Huda;2025/08/17;160.0;D004;[Specialist Consultation];[110.0];[Vitamins,Paracetamol];[25.0,25.0];drink more water;Online Banking;160.0;0.0
+P029;A042;C024;Jonathan Davis;2025/06/25;100.0;D002;[Specialist Consultation];[100.0];[];[];reduce sugar intake;Online Banking;100.0;0.0
+P030;A044;C004;Priya Devi;2025/01/22;105.0;D004;[Follow Up];[60.0];[Vitamins];[45.0];sleep earlier;Cash;120.0;15.0
+P031;A045;C049;Amira Abdullah;2025/08/21;135.0;D001;[Specialist Consultation];[110.0];[Vitamins];[25.0];reduce sugar intake;Online Banking;135.0;0.0
+P032;A046;C050;James Wilson;2025/05/09;150.0;D003;[Follow Up,General Checkup];[60.0,50.0];[Painkillers];[40.0];eat more vegetables;Touch N Go;150.0;0.0
+P033;A047;C006;Haruka Tanaka;2025/08/23;220.0;D004;[Specialist Consultation];[180.0];[Painkillers];[40.0];manage stress better;Touch N Go;220.0;0.0
+P034;A049;C007;Jason Lim;2025/08/25;210.0;D003;[Specialist Consultation,Follow Up];[110.0,60.0];[Painkillers];[40.0];reduce sugar intake;Touch N Go;210.0;0.0
+P035;A050;C034;George Harris;2025/08/26;140.0;D001;[Specialist Consultation];[100.0];[Painkillers];[40.0];eat more vegetables;Touch N Go;140.0;0.0
+P036;A052;C021;Isabelle Martin;2025/08/02;240.0;D002;[Specialist Consultation,Emergency];[120.0,60.0];[Antibiotics];[60.0];exercise regularly;Cash;240.0;0.0
+P037;A054;C041;Hannah Tan;2025/08/03;240.0;D004;[Specialist Consultation];[180.0];[Antibiotics];[60.0];eat more vegetables;Touch N Go;250.0;10.0
+P038;A055;C027;Aisyah Ahmad;2025/08/04;175.0;D001;[Specialist Consultation];[130.0];[Vitamins];[45.0];reduce sugar intake;Cash;175.0;0.0
+P039;A057;C017;Sophia Lee;2025/08/05;185.0;D004;[Specialist Consultation,Follow Up];[100.0,40.0];[Vitamins];[45.0];reduce sugar intake;Online Banking;200.0;15.0
+P040;A058;C005;Michael Johnson;2025/08/06;170.0;D003;[Specialist Consultation];[120.0];[Painkillers];[50.0];follow doctor's advice;Cash;170.0;0.0
+P041;A060;C044;Brian Park;2025/08/07;145.0;D002;[Specialist Consultation];[100.0];[Vitamins];[45.0];take medicine on time;Touch N Go;145.0;0.0
+P042;A061;C018;Hiroshi Sato;2025/08/08;200.0;D003;[Specialist Consultation,General Checkup];[130.0,40.0];[Cough Syrup];[30.0];sleep earlier;Debit/Credit Card;200.0;0.0
+P043;A063;C023;Alicia Wong;2025/08/09;80.0;D001;[General Checkup];[80.0];[];[];eat more vegetables;Cash;80.0;0.0
+P044;A064;C046;Lucas White;2025/08/10;190.0;D002;[Specialist Consultation];[130.0];[Antibiotics];[60.0];take medicine on time;Debit/Credit Card;200.0;10.0
+P045;A066;C031;Emily Davis;2025/08/11;160.0;D004;[Specialist Consultation];[110.0];[Painkillers];[50.0];follow doctor's advice;Cash;160.0;0.0
+P046;A067;C036;Peter Lim;2025/08/12;140.0;D001;[Specialist Consultation];[110.0];[Antihistamine];[30.0];reduce sugar intake;Online Banking;140.0;0.0
+P047;A069;C025;Fatimah Zahra;2025/08/13;155.0;D003;[Specialist Consultation];[110.0];[Vitamins];[45.0];take medicine on time;Cash;155.0;0.0
+P048;A070;C014;Andrew Smith;2025/08/14;100.0;D004;[Specialist Consultation];[100.0];[];[];take medicine on time;Touch N Go;100.0;0.0
+P049;A072;C029;Rachel Kim;2025/08/15;135.0;D002;[Follow Up];[60.0];[Cough Syrup,Paracetamol];[35.0,40.0];take medicine on time;Cash;135.0;0.0
+P050;A073;C003;Daniel Wong;2025/08/16;150.0;D003;[Specialist Consultation];[110.0];[Painkillers];[40.0];reduce sugar intake;Debit/Credit Card;160.0;10.0
+P051;A075;C035;Yuki Nakamura;2025/08/17;160.0;D001;[Specialist Consultation];[120.0];[Painkillers];[40.0];take medicine on time;Touch N Go;160.0;0.0
+P052;A076;C028;Benjamin Lee;2025/08/18;190.0;D002;[Specialist Consultation];[130.0];[Antibiotics];[60.0];sleep earlier;Debit/Credit Card;190.0;0.0
+P053;A078;C001;Amirul Hakim;2025/08/19;135.0;D004;[Specialist Consultation];[100.0];[Cough Syrup];[35.0];exercise regularly;Cash;135.0;0.0
+P054;A079;C047;Tan Li Wei;2025/08/20;95.0;D001;[Follow Up];[60.0];[Cough Syrup];[35.0];eat more vegetables;Cash;95.0;0.0
+P055;A081;C040;Kevin Lee;2025/08/21;150.0;D003;[Specialist Consultation];[110.0];[Painkillers];[40.0];exercise regularly;Debit/Credit Card;150.0;0.0
+P056;A084;C039;Siti Aisyah;2025/08/23;105.0;D002;[General Checkup];[80.0];[Vitamins];[25.0];eat more vegetables;Cash;105.0;0.0
+P057;A085;C007;Jason Lim;2025/08/24;160.0;D003;[Specialist Consultation];[110.0];[Antihistamine,Paracetamol];[30.0,20.0];sleep earlier;Cash;160.0;0.0
+P058;A087;C002;Rachel Tan;2025/08/25;100.0;D001;[Follow Up];[60.0];[Painkillers];[40.0];take medicine on time;Online Banking;100.0;0.0
+P059;A088;C049;Amira Abdullah;2025/08/26;140.0;D002;[Specialist Consultation];[110.0];[Antihistamine];[30.0];exercise regularly;Cash;140.0;0.0
+P060;A090;C022;Samuel Chua;2025/08/27;110.0;D004;[Specialist Consultation];[110.0];[];[];follow doctor's advice;Debit/Credit Card;120.0;10.0
+P061;A091;C024;Jonathan Davis;2025/08/28;145.0;D001;[Specialist Consultation];[120.0];[Vitamins];[25.0];exercise regularly;Cash;145.0;0.0
+P062;A093;C011;Emily Chen;2025/08/29;100.0;D003;[Follow Up];[60.0];[Painkillers];[40.0];sleep earlier;Online Banking;100.0;0.0
+P063;A094;C043;Melissa Wong;2025/08/30;165.0;D004;[Specialist Consultation];[130.0];[Cough Syrup];[35.0];follow doctor's advice;Debit/Credit Card;165.0;0.0
+P064;A096;C013;Jessica Wong;2025/08/31;140.0;D002;[Specialist Consultation];[110.0];[Antihistamine];[30.0];manage stress better;Cash;140.0;0.0
+P065;A097;C038;David Chen;2025/08/17;150.0;D003;[Specialist Consultation];[110.0];[Painkillers];[40.0];eat more vegetables;Touch N Go;150.0;0.0
